@@ -1,0 +1,11 @@
+#infobar {
+    border-bottom: 5px solid;
+    height: 25px;
+    position: fixed;
+    width: 600px;
+    margin-top:0px;
+}
+
+#MainCanvas {
+    margin-top:50px;
+}
